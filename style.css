@@ -1,0 +1,38 @@
+*{
+    margin: 2;
+    padding: 4;
+    box-sizing: border-box;
+    font-family: fantasy;
+
+}
+body{
+    height: 200vh;
+    width: 100%;
+    background: linear-gradient(to bottom,#68EACC 0%,#497BE8 100%);
+}
+
+.wrapper{
+    background-color: rgb(160, 95, 95);    margin: 135px ;                      
+    width: 700;
+    max-width: 200;
+    background: linear-gradient(#dbdae1,#a3aaba);
+    padding: 96px;
+    border-radius: 50px;
+    /* box-shadow:
+      1px 1px 0 1px #f9f9fb,
+      -1px 0 28px 0 rgba(34, 33, 81, 0.01),
+      54px 54px 28px -10px rgba(34, 33, 81, 0.15); */
+
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+     
+
+
+}
+.wrapper header{
+    font-size: 25px;
+    font: weight 100%; 
+    border: 2px solid rgb(153, 96, 244);
+    background-color: blueviolet;
+
+        
+}
